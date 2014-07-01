@@ -1,0 +1,15 @@
+.site-title {
+  font-size: 30px;
+
+  a {
+    color: #3a4b23;
+    text-decoration: none;
+
+    @include transition-property(color);
+    @include transition-duration(0.5s);
+
+    &:hover {
+      color: #CF1C46;
+    }
+  }
+}
