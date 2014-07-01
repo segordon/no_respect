@@ -5,14 +5,16 @@ no_respect is a theme for Octopress. It uses a flat-ui CSS navbar and ditches th
 
 It's a modified version of [respectMattt](https://github.com/midnightSuyama/respectMattt) by midnightSuyama
 
+This readme was originally written by midnightSuyama and adapted for this project by segordon.
+
 ## Install
 
 	$ cd octopress
-	$ git clone git://github.com/midnightSuyama/respectMattt.git .themes/respectMattt
-	$ rake install['respectMattt']
+	$ git clone git://github.com/segordon/no_respect.git .themes/no_respect
+	$ rake install['no_respect']
 	$ rake generate
 
-If zsh, please use `rake install\['respectMattt'\]`.
+If zsh, please use `rake install\['no_respect'\]`.
 
 ## Configuration
 
@@ -20,7 +22,7 @@ remember to set the default index pagination value higher than the default in yo
 
 ### Theme
 
-Change category names in `.themes/respectMattt/source/_includes/post/theme.html`.
+Change category names in `.themes/no_respect/source/_includes/post/theme.html`.
 
 ## Acknowledgements
 
