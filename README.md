@@ -1,7 +1,7 @@
 no_respect
 ============
 
-no_respect is a theme for Octopress. It uses a flat-ui CSS navbar and ditches the typical content preview that most octopress themes take advantage of. 
+no_respect is a theme for Octopress. It uses a flat-ui CSS navbar and ditches the typical content preview that most octopress themes take advantage of in favor of a cleaner post-title-only index. 
 
 It's a modified version of [respectMattt](https://github.com/midnightSuyama/respectMattt) by midnightSuyama
 
