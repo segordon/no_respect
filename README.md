@@ -7,6 +7,8 @@ It's a modified version of [respectMattt](https://github.com/midnightSuyama/resp
 
 This readme was originally written by midnightSuyama and adapted for this project by segordon.
 
+Updates may be slow, as the universal parts are pulled periodically from the theme in use at [segordon.net](http://segordon.net)
+
 ## Example
 
 This theme is currently in use at [segordon.net](http://segordon.net/)
