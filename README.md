@@ -41,3 +41,7 @@ Change category names in `.themes/no_respect/source/_includes/post/theme.html`.
 * [Lettering.js](http://letteringjs.com)
 * [Subtle Patterns](http://subtlepatterns.com)
 * [mini Social Icons](http://wolfrosch.com)
+
+## Todo
+
+better/further split of html/css in use within _includes/custom
