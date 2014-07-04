@@ -20,7 +20,7 @@ This theme is currently in use at [segordon.net](http://segordon.net/)
 	$ rake install['no_respect']
 	$ rake generate
 
-If zsh, please use `rake install\['no_respect'\]`.
+If zsh, please use `rake install\['no_respect'\]`, also remember that it's usually beneficial for zsh uses to alias rake with noglob. ( add "alias rake="noglob rake" "to your .zshrc)
 
 ## Configuration
 
